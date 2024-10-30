@@ -1,0 +1,6 @@
+train: C:\Users\rayre\sperm_tail_detection\images\train
+val: C:\Users\rayre\sperm_tail_detection\images\val
+
+nc: 1
+names: ['sperm_tail']
+
